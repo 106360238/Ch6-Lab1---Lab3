@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\user\desktop\c_code2\ch6_lab1\source\main.c(10): warning C4477: 'scanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'std::size_t'
+  c:\users\user\desktop\c_code2\ch6_lab1\source\main.c(10): note: 此引數可用為緩衝區大小
+  Lab1.vcxproj -> C:\Users\User\Desktop\c_code2\Ch6_Lab1\Lab1\x64\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\User\Desktop\c_code2\Ch6_Lab1\Lab1\x64\Debug\Lab1.pdb (Full PDB)
